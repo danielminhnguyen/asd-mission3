@@ -4,10 +4,10 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Mission 1</h3>
+  <h3 align="center">Mission 3</h3>
 
   <p align="center">
-    Node Red / IBM Watson Assistant Project
+    React Native / Bing Customer Search / Azure Cognitive Service
     <br />
     <a href="https://github.com/danielminhnguyen/asd-mission3"><strong>Explore the docs »</strong></a>
     <br />
