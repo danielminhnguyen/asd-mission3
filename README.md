@@ -87,7 +87,7 @@ This project using **Azure Cognitive Service** and **Bing Custom Search** for Tu
 
 ## Usage
 
-1. install packages from package.json. Go to project folder root
+1. Go to project folder root and install packages from package.json.
    ```
    npm start
    expo start
